@@ -1,0 +1,106 @@
+Category,Feature,Affects private chats?,Facebook,Instagram,LinkedIn,Pinterest,Snapchat,Telegram,TikTok,WeChat,WhatsApp,X
+Content moderation,Mute words,,1,1,0,1,0,0,1,0,0,1
+Content moderation,Hide/mute post/accounts/chats/stories,Yes,1,1,1,1,1,1,1,1,1,1
+Content moderation,Remove someone's comment,,1,1,1,1,1,Not applicable,1,1,Not applicable,0
+Content moderation,Remove someone's messages from group,Yes,0,0,0,0,0,1,0,0,1,0
+Content moderation,Control which member's profile photos to see,,0,0,1,0,0,0,0,0,0,0
+Discoverability,Limit discoverability in quick add,,0,0,0,0,1,1,0,1,Not applicable,0
+Discoverability,Limit discoverability using email,,1,Not applicable,1,Not applicable,1,Not applicable,1,Not applicable,Not applicable,1
+Discoverability,Limit discoverability using phone number,,1,Not applicable,1,Not applicable,1,1,1,1,0,1
+Discoverability,Limit discoverability using QR code,,0,0,0,0,0,0,0,1,1,Not applicable
+Discoverability,Limit discoverability using username,,0,0,0,0,0,0,0,1,Not applicable,0
+Discoverability,Limit who can attach your account to forwarded messages or reposts,,0,Not applicable,0,Not applicable,Not applicable,1,Not applicable,Not applicable,Not applicable,0
+Distribution/sharing,Limit others from reposting your posts/stories,,1,1,0,0,0,1,1,Not applicable,Not applicable,0
+Distribution/sharing,Limit others from sharing your posts/stories in messages,,0,1,0,0,0,1,0,Not applicable,Not applicable,0
+Distribution/sharing,Limit others from sharing your posts/stories outside the app,,0,0,0,0,0,1,0,Not applicable,Not applicable,0
+Distribution/sharing,Limit who can forward messages,Yes,0,1,0,Not applicable,0,1,0,0,0,Not applicable
+Distribution/sharing,Protect videos from posts and chats,Yes,1,1,1,1,0,1,1,0,0,1
+Distribution/sharing,Prevent chats from being screenshoted,Yes,0,0,0,0,0,1,0,0,1,0
+Interaction,Limit access to owned group and permissions of members,,1,1,1,1,0,1,0,1,1,0
+Interaction,Limit specific users and restrict them,,1,1,0,0,0,Not applicable,0,Not applicable,Not applicable,0
+Interaction,Block account,,1,1,1,1,1,1,1,1,1,1
+Interaction,Limit who adds you to groups,,0,1,1,0,0,1,0,1,1,0
+Interaction,Limit who can add you by contact card,Yes,0,0,0,0,0,0,0,1,0,0
+Interaction,Limit who can add you from a group chat,Yes,0,0,0,0,0,0,0,1,0,0
+Interaction,Control who can send you friend requests,,1,0,1,0,0,Not applicable,0,0,Not applicable,0
+Interaction,Limit who can follow you,,1,0,1,0,0,Not applicable,0,Not applicable,Not applicable,0
+Interaction,Remove contact/friend/follower,,1,1,1,1,1,Not applicable,1,1,Not applicable,0
+Interaction,Limit who can call you,Yes,0,0,Not applicable,Not applicable,0,1,Not applicable,0,0,1
+Interaction,Limit who can comment on posts,,1,1,1,1,1,Not applicable,1,0,Not applicable,1
+Interaction,Limit who can send voice and video messages,Yes,0,0,0,Not applicable,0,1,Not applicable,0,0,0
+Interaction,Limit who mentions you,Yes,1,1,1,1,0,0,1,0,0,0
+Interaction,Limit who messages you,Yes,1,1,1,1,1,0,1,1,0,1
+Interaction,Limit who tags you,,1,1,1,Not applicable,Not applicable,Not applicable,1,Not applicable,Not applicable,1
+Interaction,Mute calls of users,Yes,1,1,Not applicable,Not applicable,1,Not applicable,Not applicable,0,1,0
+Interaction,Request to be live/speaker,,1,1,Not applicable,Not applicable,Not applicable,Not applicable,1,Not applicable,Not applicable,1
+Report,Report account,,1,1,1,1,1,0,1,1,1,1
+Report,Report chat,Yes,1,1,1,1,0,0,1,1,1,1
+Report,Report message,Yes,1,1,0,0,1,0,1,0,1,1
+Report,Report post,,1,1,1,1,1,Not applicable,1,0,Not applicable,1
+Report,Report story,,1,1,Not applicable,Not applicable,1,1,1,0,1,Not applicable
+Self-censorship,Auto-delete message,Yes,1,1,0,0,1,1,0,0,1,0
+Self-censorship,Change email,,1,1,1,1,1,Not applicable,1,1,Not applicable,1
+Self-censorship,Change first & last name,,1,1,1,1,1,1,1,1,1,1
+Self-censorship,Change username,,1,1,1,1,1,1,1,1,Not applicable,1
+Self-censorship,Deactivate account temporarily,,1,1,1,1,1,0,1,1,0,1
+Self-censorship,Delet entire chat from both ends,Yes,0,0,0,0,0,1,0,0,0,0
+Self-censorship,Delete account,,1,1,1,1,1,1,1,1,1,1
+Self-censorship,Delete messages from both sides,Yes,1,1,1,0,1,1,1,1,1,0
+Self-censorship,Delete own posts/comments/story,,1,1,1,1,1,1,1,1,1,1
+Self-censorship,Edit comment,,1,0,1,1,0,Not applicable,0,0,Not applicable,1
+Self-censorship,Edit messages,Yes,1,1,1,0,0,1,0,1,1,0
+Self-censorship,Edit posts,,1,1,1,1,Not applicable,Not applicable,1,1,Not applicable,1
+Self-censorship,Edit stories,,0,0,Not applicable,Not applicable,0,1,0,1,0,Not applicable
+Self-censorship,Edit/remove personal information,,1,1,1,1,1,1,1,1,1,1
+Self-censorship,Exit group,,1,1,1,1,1,1,1,1,1,1
+Self-censorship,Pin/Unpin posts,,1,1,1,Not applicable,Not applicable,Not applicable,1,Not applicable,Not applicable,1
+Self-censorship,Remove/edit interactions,Yes,1,1,1,1,1,1,1,1,1,1
+Self-censorship,Sharing profile edits,,1,Not applicable,1,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,1
+Self-censorship,Change phone number,,1,1,1,1,1,1,1,1,1,1
+Transparency,Learn if a person blocks or deletes you,,0,0,0,1,0,0,0,0,0,1
+Transparency,Flag if user edited their post,,1,0,1,0,Not applicable,Not applicable,0,0,Not applicable,1
+Transparency,Flag or notification when message is deleted from both sides,Yes,1,0,1,Not applicable,1,0,1,1,1,Not applicable
+Transparency,Flag or notification when changed time to auto delete messages,Yes,Not applicable,Not applicable,Not applicable,Not applicable,1,1,Not applicable,Not applicable,0,Not applicable
+Transparency,Flag or notification when message is edited,Yes,1,1,1,Not applicable,Not applicable,1,1,1,1,Not applicable
+Transparency,Flag or notification when saved an image from chat,Yes,0,0,0,0,1,0,0,0,0,0
+Transparency,Flag or notification when screenshoted/recorded chat,Yes,0,1,0,0,1,1,0,0,0,0
+Transparency,Flag or notification when screenshoted/recorded profile info,,0,0,0,0,1,0,0,0,0,0
+Transparency,See who interacted with post/message,Yes,1,1,1,1,1,1,1,1,1,1
+Transparency,See who reposted,,1,1,1,1,Not applicable,Not applicable,0,Not applicable,Not applicable,1
+Transparency,View edit history,,1,0,0,0,0,0,0,0,0,1
+Transparency,Who screenshoted/recorded status (story),,0,0,Not applicable,Not applicable,1,0,0,0,0,Not applicable
+Transparency,Who viewed message in groups,Yes,0,0,0,Not applicable,1,1,0,0,1,0
+Transparency,Who viewed story,,1,1,Not applicable,Not applicable,1,1,1,0,1,Not applicable
+Transparency,See when the other person read chat,Yes,1,1,0,0,1,1,1,0,1,1
+Transparency,"Flags if the user is typing, recording, or sending image, video, voice, or file",,1,1,0,0,1,1,0,0,1,0
+Transparency,Know who visited/viewed your profile,,0,0,1,0,0,0,1,0,0,0
+Transparency,Know who viewed your post,,0,0,0,0,Not applicable,Not applicable,1,0,Not applicable,0
+Visibility,Control post view history,,0,0,0,0,Not applicable,Not applicable,1,0,Not applicable,0
+Visibility,Limit who view your live (or spaces),,1,1,Not applicable,Not applicable,Not applicable,Not applicable,1,Not applicable,Not applicable,0
+Visibility,Limit who can see your phone number,,1,Not applicable,Not applicable,Not applicable,Not applicable,1,Not applicable,Not applicable,0,Not applicable
+Visibility,Allow followers to see which spaces you are listening to,,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,1
+Visibility,Anonymous post in group,,1,0,0,0,0,0,0,0,0,0
+Visibility,Blur app if try to take screenshot through opened app screen,,0,0,0,0,1,1,0,0,0,0
+Visibility,Connection visibility,,1,0,1,0,Not applicable,Not applicable,1,Not applicable,Not applicable,0
+Visibility,Control visibility of post,,1,0,1,0,Not applicable,Not applicable,1,1,Not applicable,1
+Visibility,Email visibility,,1,1,1,1,1,Not applicable,1,1,Not applicable,1
+Visibility,Hide read receipts,Yes,1,1,1,0,0,0,1,1,1,1
+Visibility,Hide typing indicator,Yes,0,0,1,0,0,0,0,Not applicable,0,0
+Visibility,Last name visibility,,0,0,1,0,0,0,0,0,0,0
+Visibility,Limit who view your last seen,Yes,1,1,Not applicable,Not applicable,Not applicable,1,1,Not applicable,1,Not applicable
+Visibility,Limit who view your online indicator,Yes,1,1,1,Not applicable,1,0,1,Not applicable,1,Not applicable
+Visibility,Limit who view your profile photo (avatar),,0,0,1,0,Not applicable,1,0,0,1,0
+Visibility,Limit who view your story (status),,1,1,Not applicable,Not applicable,1,1,1,1,1,Not applicable
+Visibility,Listen to spaces anonymously,,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,1
+Visibility,Make account private,,1,1,1,1,1,Not applicable,1,Not applicable,Not applicable,1
+Visibility,Visibility of profile information,,1,0,1,0,1,1,0,0,1,1
+Visibility,Control location sharing,,1,Not applicable,Not applicable,Not applicable,1,1,Not applicable,1,1,1
+Visibility,Profile viewing,,0,0,1,0,0,0,1,0,0,0
+Visibility,Who can see posts you're tagged in on your profile?,,1,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable
+Visibility,Control the visibility of your interactions,,0,0,0,0,Not applicable,Not applicable,1,Not applicable,Not applicable,0
+Visibility,Hide that user viewed story,,0,0,0,0,0,1,0,Not applicable,0,Not applicable
+,,,,,,,,,,,,
+Legend,,,,,,,,,,,,
+1,Feature is available in the app,,,,,,,,,,,
+0,Feature is not available in the app,,,,,,,,,,,
+Not applicable,Feature is not applicable to the app,,,,,,,,,,,
